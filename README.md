@@ -277,12 +277,6 @@ Then create a Pull Request.
 
 ---
 
-# 📜 License
-
-This repository is open-source and available under the MIT License.
-
----
-
 # 👨‍💻 Author
 
 ## Mohammad Hassan
